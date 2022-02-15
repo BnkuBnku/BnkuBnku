@@ -9,6 +9,8 @@
 -  React-Native
 -  JavaScript
 -  SQL Server/MySQL
+-  Android(Java)
+-  Laravel
 
 <!---
 BnkuBnku/BnkuBnku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
