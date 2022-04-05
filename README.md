@@ -6,7 +6,6 @@
                         
 - 🌱 I’m currently learning 
 -  C#
--  React-Native
 -  JavaScript
 -  SQL Server/MySQL
 -  Android(Java)
