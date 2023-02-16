@@ -3,6 +3,7 @@
 -  Python
 -  C#
 -  C++
+-  OpenAI API
                         
 - 🌱 I’m currently learning 
 -  SQL Server/MySQL
