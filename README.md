@@ -6,8 +6,8 @@
 -  OpenAI API
                         
 - 🌱 I’m currently learning 
--  SQL Server/MySQL
--  Android(Java)
+-  Postgresql
+-  Laravel
 
 <!---
 BnkuBnku/BnkuBnku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
