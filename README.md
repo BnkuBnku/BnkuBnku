@@ -6,7 +6,7 @@
 -  OpenAI API
                         
 - 🌱 I’m currently learning 
--  Postgresql
+-  PostgreSQL
 -  Laravel
 
 <!---
