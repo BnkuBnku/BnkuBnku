@@ -7,6 +7,7 @@
                         
 - 🌱 I’m currently learning 
 -  PostgreSQL
+-  MySQL
 -  Laravel
 
 <!---
