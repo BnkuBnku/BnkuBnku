@@ -1,13 +1,12 @@
 - 👋 Hi, I’m @BnkuBnku
 - 👀 I’m interested in 
--  Python
 -  C#
 -  C++
--  OpenAI API
+-  AI Projects
+-  Javascript
                         
-- 🌱 I’m currently learning 
--  PostgreSQL
--  MySQL
+- 🌱 I’m currently learning
+-  Python
 -  Laravel
 
 <!---
