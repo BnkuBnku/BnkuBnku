@@ -2,14 +2,12 @@
 - 👀 I’m interested in 
 -  C#
 -  C++
--  AI Projects
--  Javascript
                         
 - 🌱 I’m currently learning
--  Python
+-  AI
 -  Laravel
--  Wordpress
 -  Javascript
+-  React
 
 <!---
 BnkuBnku/BnkuBnku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
