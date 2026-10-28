@@ -4,7 +4,7 @@
 To strictly comply with my employer's corporate security policies, my daily production-grade code commits are securely isolated under my enterprise identity. 
 
 You can view my complete live contribution history, engineering velocity, and active green squares grid directly on my corporate profile:
-👉 **[View My Corporate GitHub Activity Graph]([https://github.com](https://github.com/CJ-hurdman))**
+👉 **[View My Corporate GitHub Activity Graph](https://github.com/CJ-hurdman)**
 
 ---
 
